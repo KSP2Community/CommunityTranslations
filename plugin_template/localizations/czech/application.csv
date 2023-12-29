@@ -1,0 +1,53 @@
+Key,Type,Desc,Czech,$Context,$Status
+Application/Cancel,Text,,Zrušit,,Ready to Test
+Application/Density,Text,,Hustota,A label for the value indicating the density of a specified object,Ready to Test
+Application/Flow/Add KSP2 Configs,Text,,Přidat konfigurace KSP2,,Ready to Test
+Application/Flow/Add KSP2 Manifests,Text,,Přidat manifesty KSP2,,Ready to Test
+Application/Flow/Add KSP2 Resources,Text,,Přidat zdroje KSP2,,Ready to Test
+Application/Flow/Create Asset Database,Text,,Vytvořit databázi aktiv,,Ready to Test
+Application/Flow/Create Cheat System,Text,,Vytvořit systém podvodů,,Ready to Test
+Application/Flow/Create Mod Package Locator,Text,,Vytvořit lokalizátor balíčku modů,,Ready to Test
+Application/Flow/Create PersistentStore,Text,,Vytvořit trvalé úložiště,,Ready to Test
+Application/Flow/Create Project Context,Text,,Vytvořit kontext projektu,,Ready to Test
+Application/Flow/Create Root Context,Text,,Vytvořit kořenový kontext,,Ready to Test
+Application/Flow/Create Root Factory,Text,,Vytvořit kořenovou továrnu,,Ready to Test
+Application/Flow/Create Script Interop,Text,,Vytvořit interop skriptů,,Ready to Test
+Application/Flow/Create Tool Framework,Text,,Vytvořit framework nástrojů,,Ready to Test
+Application/Flow/Load Begin,Text,,Začátek načítání,,Ready to Test
+Application/Flow/Load Complete,Text,,Načítání dokončeno,,Ready to Test
+Application/Flow/Load Mods,Text,,Načíst mody,,Ready to Test
+Application/Flow/LocateScriptEnvironment,Text,,Najít prostředí skriptu,,Ready to Test
+Application/Flow/Login,Text,,Přihlásit se,,Ready to Test
+Application/Flow/MuteMusic,Text,,Hudba ztlumena,when the key shortcut to mute sound is triggered,Ready to test
+Application/Flow/MuteSound,Text,,Zvuk ztlumen,when the key shortcut to mute sound is triggered,Ready to test
+Application/Flow/Setup Configurations,Text,,Nastavit konfigurace,,Ready to Test
+Application/Flow/UnmuteMusic,Text,,Hudba zapnuta,,Ready to test
+Application/Flow/UnmuteSound,Text,,Zvuk zapnut,,Ready to test
+Application/Languages/Chinese-Simplified,Text,,Čínština (zjednodušená),,Ready to Test
+Application/Languages/Chinese-Traditional,Text,,Čínština (tradiční),,Ready to Test
+Application/Languages/Context,Text,,Kontext,,Ready to Test
+Application/Languages/English,Text,,Angličtina,The English Language,Ready to Test
+Application/Languages/French,Text,,Francouzština,The French langugage,Ready to Test
+Application/Languages/German,Text,,Němčina,,Ready to Test
+Application/Languages/Italian,Text,,Italština,,Ready to Test
+Application/Languages/Japanese,Text,,Japonština,,Ready to Test
+Application/Languages/Korean,Text,,Korejština,,Ready to Test
+Application/Languages/Polish,Text,,Polština,,Ready to Test
+Application/Languages/Portuguese-Brazil,Text,,Portugalština (Brazílie),,Ready to Test
+Application/Languages/Russian,Text,,Ruština,,Ready to Test
+Application/Languages/Spanish,Text,,Španělština,The Spanish language,Ready to Test
+Application/Loading,Text,,Načítání,,Ready to Test
+Application/Loading...,Text,,Načítání...,Ready to Test
+Application/OK,Text,,OK,Generic button label for Accept/Agree,Ready to Test
+Application/Quicksave/NoQuicksave,Text,,Neexistuje žádné rychlé uložení k načtení!,Player has attempted to load a quicksave but does not have one to load,Ready to Test
+Application/Quicksave/NoQuicksaveDesc,Text,,Nemáte žádná rychlá uložení.,The player has pressed quickload but has no quicksave to load,Ready to Test
+Application/Quicksave/NoQuicksaveDesc[PS4],Text,,,"Nemáte žádná rychlá uložení. Stiskněte <mspace=20><voffset=.3em><sprite=""Input-Gamepad"" index=29></voffset></mspace> pro vytvoření rychlého uložení.",The player has pressed quickload but has no quicksave to load,Ready To test
+Application/Quicksave/NoQuicksaveDesc[XBox],Text,,,"Nemáte žádná rychlá uložení. Stiskněte <mspace=20><voffset=.3em><sprite=""Input-Gamepad"" index=13></voffset></mspace> pro vytvoření rychlého uložení.",The player has pressed quickload but has no quicksave to load,Ready To test
+Application/TextFieldPlaceholder,Text,,Zadejte text...,Placeholder text for empty input field,Ready to test
+Application/Title,Text,,Kerbal Space Program 2,,Ready to Test
+GameMode/Description/ExplorationMode,Text,,"Postavte svou vesmírnou agenturu od skromných začátků. Začínáte s malou sadou dílů, provádíte experimenty a plníte mise, abyste získali vědu. Použijte vědu k odemčení více dílů v Centru výzkumu a vývoje.",Science Game Mode Description inside the campaign menu when starting a new game,Ready To test
+GameMode/Description/SandboxMode,Text,,Prozkoumejte vesmír bez omezení. Všechny díly jsou okamžitě k dispozici. Výzkum a vývoj a Řídící středisko nejsou k dispozici.,Sandbox Game Mode Description inside the campaign menu when starting a new game,Ready To test
+GameMode/Description/ScienceMode,Text,,"Postavte svou vesmírnou agenturu od skromných začátků. Začínáte s malou sadou dílů, provádíte experimenty a plníte mise, abyste získali vědu. Použijte vědu k odemčení více dílů v Centru výzkumu a vývoje.",Science Game Mode Description inside the campaign menu when starting a new game,Ready To test
+GameMode/ExplorationMode,Text,,Průzkum,Exploration Game Mode display name,Ready To test
+GameMode/SandboxMode,Text,,Neomezená hra,Sandbox Game Mode display name,Ready to Test
+GameMode/ScienceMode,Text,,Průzkum,Science Game Mode display name,Ready To test
