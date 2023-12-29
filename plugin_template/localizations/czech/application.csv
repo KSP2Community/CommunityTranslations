@@ -37,7 +37,7 @@ Application/Languages/Portuguese-Brazil,Text,,Portugalština (Brazílie),,Ready 
 Application/Languages/Russian,Text,,Ruština,,Ready to Test
 Application/Languages/Spanish,Text,,Španělština,The Spanish language,Ready to Test
 Application/Loading,Text,,Načítání,,Ready to Test
-Application/Loading...,Text,,Načítání...,Ready to Test
+Application/Loading...,Text,,Načítání...,,Ready to Test
 Application/OK,Text,,OK,Generic button label for Accept/Agree,Ready to Test
 Application/Quicksave/NoQuicksave,Text,,Neexistuje žádné rychlé uložení k načtení!,Player has attempted to load a quicksave but does not have one to load,Ready to Test
 Application/Quicksave/NoQuicksaveDesc,Text,,Nemáte žádná rychlá uložení.,The player has pressed quickload but has no quicksave to load,Ready to Test
