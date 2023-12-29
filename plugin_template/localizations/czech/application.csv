@@ -41,8 +41,8 @@ Application/Loading...,Text,,Načítání...,,Ready to Test
 Application/OK,Text,,OK,Generic button label for Accept/Agree,Ready to Test
 Application/Quicksave/NoQuicksave,Text,,Neexistuje žádné rychlé uložení k načtení!,Player has attempted to load a quicksave but does not have one to load,Ready to Test
 Application/Quicksave/NoQuicksaveDesc,Text,,Nemáte žádná rychlá uložení.,The player has pressed quickload but has no quicksave to load,Ready to Test
-Application/Quicksave/NoQuicksaveDesc[PS4],Text,,,"Nemáte žádná rychlá uložení. Stiskněte <mspace=20><voffset=.3em><sprite=""Input-Gamepad"" index=29></voffset></mspace> pro vytvoření rychlého uložení.",The player has pressed quickload but has no quicksave to load,Ready To test
-Application/Quicksave/NoQuicksaveDesc[XBox],Text,,,"Nemáte žádná rychlá uložení. Stiskněte <mspace=20><voffset=.3em><sprite=""Input-Gamepad"" index=13></voffset></mspace> pro vytvoření rychlého uložení.",The player has pressed quickload but has no quicksave to load,Ready To test
+Application/Quicksave/NoQuicksaveDesc[PS4],Text,,"Nemáte žádná rychlá uložení. Stiskněte <mspace=20><voffset=.3em><sprite=""Input-Gamepad"" index=29></voffset></mspace> pro vytvoření rychlého uložení.",The player has pressed quickload but has no quicksave to load,Ready To test
+Application/Quicksave/NoQuicksaveDesc[XBox],Text,,"Nemáte žádná rychlá uložení. Stiskněte <mspace=20><voffset=.3em><sprite=""Input-Gamepad"" index=13></voffset></mspace> pro vytvoření rychlého uložení.",The player has pressed quickload but has no quicksave to load,Ready To test
 Application/TextFieldPlaceholder,Text,,Zadejte text...,Placeholder text for empty input field,Ready to test
 Application/Title,Text,,Kerbal Space Program 2,,Ready to Test
 GameMode/Description/ExplorationMode,Text,,"Postavte svou vesmírnou agenturu od skromných začátků. Začínáte s malou sadou dílů, provádíte experimenty a plníte mise, abyste získali vědu. Použijte vědu k odemčení více dílů v Centru výzkumu a vývoje.",Science Game Mode Description inside the campaign menu when starting a new game,Ready To test
